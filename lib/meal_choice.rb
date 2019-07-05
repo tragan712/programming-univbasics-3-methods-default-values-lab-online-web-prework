@@ -15,7 +15,7 @@ end
 
 meal_choice( "broccoli" , "macaroi")
 
-meal_choice_optional("broccoli","macaroi" , "meat")
+meal_choice_optional("broccoli","macaroi")
 
 
  
