@@ -7,7 +7,7 @@ require 'spec_helper'
     expect($stdout).to receive(:puts).with("A plate of meat with broccoli and macaroni.")
     meal_choice("broccoli", "macaroni")
 
-
+ end
 
 
 
@@ -28,5 +28,5 @@ describe '#meal_choice' do
   end
 
  
-  end
+ 
 end
