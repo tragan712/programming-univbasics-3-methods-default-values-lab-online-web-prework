@@ -20,7 +20,7 @@ puts "What a nutritious meal!"
  
 end
  
-
+ meal_choice_optional(veg1, veg2, protein="meat")
 
 
 
