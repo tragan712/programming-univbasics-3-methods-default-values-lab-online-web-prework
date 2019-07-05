@@ -1,6 +1,7 @@
 
 
-meal_choice("meat","meat", "meat")
+
+
 def meal_choice(veg1, veg2, protein="meat")
 
 puts "What a nutritious meal!"
