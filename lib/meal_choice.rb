@@ -9,18 +9,9 @@ p"A plate of #{protein} with #{veg1} and #{veg2}."
 
  
 end
-if ("broccoli" ,"macaroni")
+meal_choice= ("broccoli" ,"macaroni")
 
 
-
-
-
-  what_a_nutritious_meal=" What a nutritious meal!"
-end
-
-
- 
-  what_a_nutritious_meal
 
 
 
