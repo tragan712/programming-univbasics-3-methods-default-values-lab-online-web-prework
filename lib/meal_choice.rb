@@ -17,8 +17,7 @@ end
 
 meal_choice
 puts"What a nutritious meal!"
-veg1="broccoli"
-veg2="macaroi"
+
 
 
 
@@ -28,7 +27,7 @@ veg2="macaroi"
 
 
 
-
+end
 
 
 
