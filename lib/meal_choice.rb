@@ -13,7 +13,7 @@ puts "What a nutritious meal!"
  
 end
 
-"A plate of meat with broccoli and macaroni."
+meal_choice("A plate of meat with broccoli and macaroni."
 
  
 
