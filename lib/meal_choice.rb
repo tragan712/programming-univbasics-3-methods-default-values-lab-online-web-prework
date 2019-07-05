@@ -16,6 +16,7 @@ puts "What a nutritious meal!"
 end
 
 meal_choice
+puts
 veg1="broccoli"
 veg2="macaroi"
 
