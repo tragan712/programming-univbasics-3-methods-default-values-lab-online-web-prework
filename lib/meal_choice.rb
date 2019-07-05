@@ -10,7 +10,7 @@ p"A plate of #{protein} with #{veg1} and #{veg2}."
  
 end
 
-puts 
+puts "A plate of meat with broccoli and macaroni."
 
 
 
