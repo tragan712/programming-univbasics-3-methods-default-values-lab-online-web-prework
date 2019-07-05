@@ -1,5 +1,5 @@
 def meal_choice(veg1, veg2, protein="meat")
-meal_choice
+
 puts "What a nutritious meal!"
  p"A plate of #{protein} with #{veg1} and #{veg2}."
 
@@ -15,9 +15,12 @@ puts "What a nutritious meal!"
  
 end
 
-meal_choice( "broccoli" , "macaroi")
+meal_choice
+veg1="broccoli"
+veg2="macaroi"
 
-meal_choice_optional("broccoli","macaroi")
+meal_choice_optional
+
 
 
  
