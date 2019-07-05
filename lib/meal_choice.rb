@@ -8,7 +8,7 @@ end
 
 def meal_choice(veg1, veg2, protein)
   puts'What a nutritious meal!'
-  p  "A plate of #{veg1} and #{veg2}."
+  p  
 end
 
 
