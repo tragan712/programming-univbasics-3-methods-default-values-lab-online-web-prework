@@ -19,7 +19,7 @@ meal_choice
 veg1="broccoli"
 veg2="macaroi"
 
-meal_choice_optional
+
 
 
 
